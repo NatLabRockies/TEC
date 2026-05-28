@@ -78,6 +78,7 @@ If you use this code in your research, please cite  following papers:
 - DOI under progress for this code
 - Abourazzouk, O., Shah, M. P., Martinek, J., He, X., Ma, Z., & Li, L. (2025). Thermomechanical Modeling and Analysis of a High-Temperature Light Trapping Planar Cavity Receiver. 10th Thermal and Fluids Engineering Conference (TFEC). https://doi.org/10.1615/TFEC2025.ess.056123
 - Abourazzouk, O., Shah, M. P., Martinek, J., He, X., Ma, Z., & Li, L. (2026). Thermomechanical analysis and modeling of a high-temperature light trapping planar cavity solar receiver. Solar Energy, 308, 114377. https://doi.org/10.1016/j.solener.2026.114377
+- Other relevant work and publications from LTPCR project can be found at <https://github.com/NatLabRockies/LTPCR-Public>
 
 ## Notes
 
