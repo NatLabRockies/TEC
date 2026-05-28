@@ -62,9 +62,16 @@ pip install numpy scipy matplotlib
 
 ## References
 
-- srlife: A Fast Tool for High Temperature Receiver Design and Analysis
-- "Creep-fatigue Behavior and Damage Accumulation of a Candidate Structural Material for Concentrating Solar Thermal Receiver"
-- "Design Guidance for High Temperature Concentrating Solar Power Components"
+- Barua, B., McMurtrey, M., Rupp, R. E., & Messner, M. C. (2020). Design Guidance for High Temperature Concentrating Solar Power Components (ANL-20/03). Argonne National Lab. (ANL), Argonne, IL (United States). https://doi.org/10.2172/1582656
+- McMurtrey, M. D., Rupp, R. E., Barua, B., & Messner, M. (2021). Creep-fatigue Behavior and Damage Accumulation of a Candidate Structural Material for Concentrating Solar Power Solar Thermal Receiver (Final Technical Report) (INL/EXT-21-61802). Idaho National Lab. (INL), Idaho Falls, ID (United States); Argonne National Lab. (ANL), Argonne, IL (United States). https://doi.org/10.2172/1797935
+- Messner, M. C., Barua, B., & McMurtrey, M. (2022). srlife: A Fast Tool for High Temperature Receiver Design and Analysis (ANL-22/29). Argonne National Lab. (ANL), Argonne, IL (United States). https://doi.org/10.2172/1871331
+
+
+## Cite this Work
+If you use this code in your research, please cite  following papers:
+- DOI under progress for this code
+- Abourazzouk, O., Shah, M. P., Martinek, J., He, X., Ma, Z., & Li, L. (2025). Thermomechanical Modeling and Analysis of a High-Temperature Light Trapping Planar Cavity Receiver. 10th Thermal and Fluids Engineering Conference (TFEC). https://doi.org/10.1615/TFEC2025.ess.056123
+- Abourazzouk, O., Shah, M. P., Martinek, J., He, X., Ma, Z., & Li, L. (2026). Thermomechanical analysis and modeling of a high-temperature light trapping planar cavity solar receiver. Solar Energy, 308, 114377. https://doi.org/10.1016/j.solener.2026.114377
 
 ## Notes
 
