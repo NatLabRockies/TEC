@@ -1,7 +1,7 @@
 
 # Thermomechanical Simulation for CSP Receivers
 
-This repository provides a Python script to simulate the thermomechanical behavior of Concentrating Solar Power (CSP) receivers under periodic thermal loading. The simulation couples elastic and creep strains to predict stress relaxation, fatigue, and rupture life of the receiver structure.
+This repository provides a Python script to simulate the thermomechanical behavior of Concentrating Solar Power (CSP) receivers under periodic thermal loading. The simulation couples elastic and creep strains to predict stress relaxation, fatigue, and rupture life of the receiver structure. The work was done under the project Light Trapping Planar Cavity Receiver (LTPCR) funded by SETO, U.S. Department of Energy. All other relevant work and publications from LTPCR project can be found at <https://github.com/NatLabRockies/LTPCR-Public>
 
 ## Features
 
