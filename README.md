@@ -71,7 +71,7 @@ conda activate tec-env
 - Barua, B., McMurtrey, M., Rupp, R. E., & Messner, M. C. (2020). Design Guidance for High Temperature Concentrating Solar Power Components (ANL-20/03). Argonne National Lab. (ANL), Argonne, IL (United States). https://doi.org/10.2172/1582656
 - McMurtrey, M. D., Rupp, R. E., Barua, B., & Messner, M. (2021). Creep-fatigue Behavior and Damage Accumulation of a Candidate Structural Material for Concentrating Solar Power Solar Thermal Receiver (Final Technical Report) (INL/EXT-21-61802). Idaho National Lab. (INL), Idaho Falls, ID (United States); Argonne National Lab. (ANL), Argonne, IL (United States). https://doi.org/10.2172/1797935
 - Messner, M. C., Barua, B., & McMurtrey, M. (2022). srlife: A Fast Tool for High Temperature Receiver Design and Analysis (ANL-22/29). Argonne National Lab. (ANL), Argonne, IL (United States). https://doi.org/10.2172/1871331
-- NLR Software Record number: SWR-25-167
+- NLR Software Record number: SWR-25-167.
 
 
 ## Cite this Work
